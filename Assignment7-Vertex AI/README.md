@@ -10,6 +10,6 @@ Vertex AI - Builds, deploys, and scales ML models faster, with pre-trained and c
 
 
 
-Implemented and showcased the vertex AI codelabs end2end. Attached the screenshots of the results in the documents,
+<h2>Assignment 7 _ VERTEX AI.docx/ Assignment 7 _ VERTEX AI.pdf </h2>- Implemented and showcased the vertex AI codelabs end2end. Attached the screenshots of the results in the documents,
 
-Assignment 7 _ VERTEX AI
+
